@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+<h1>ONLINE COMPLICANT REGISTRATION  WEBSITE</h1>
+<p>This website is used to register a complaint about online related issues and we are take action against online scams.this kind of website are used to reduce risk of scams and provide a suitable solution for affected people.
+    online complaint registration websites can be used to register complaints and reslove issues in a systematic mannner.they can also help to improve customer loyalty and make bussinees improvement.
+</p>
+<center><p>online scams can take many forms including phishing,fake online marketplaces and romance cams</p></center>
+<h2>To avoid online scams,you can:</h2>
+<ul>
+    <li>be wary of requests for your details money</li>
+    <li>use strong passwords that are a combination of upper and lower-case letters,special letters and numbers</li>
+    <li>review you privacy and security settings on social media</li>
+    <li>avoid streaminh from unknown websites</li>
+    <li>resist the pressure to act immediately</li>
+    <li>if it seems too good to be true,then it probably</li>
+</ul>
+<center><h3>ONLINE SCAM REGISTRATION FORM</h3></center>
+<center><div class="box">
+    <h4>register your complaints</h4>
+    <form>
+        <label>Name:</label>
+        <input type="text" placeholder="enter your name" required><br>
+        <label>Phone no:</label>
+        <input type="text" required><br>
+        <label>Address:</label>
+        <input type="textarea"><br>
+        <label>complaint:</label>
+        <input type="textarea"><br>
+        <label>Gender:</label>
+        <label>male</label>
+        <input type="checkbox">
+        <label>female</label>
+        <input type="checkbox">
+        <label>other</label>
+        <input type="checkbox"><br>
+        <label>District:</label>
+        <select>
+            <option value="chennai">chennai</option>
+            <option value="chengapattu">chengalpattu</option>
+            <option value="villupuram">villupuram</option>
+            <option value="trichy">trichy</option>
+            <option value="thindukkal">thindukkal</option>
+            <option value="madurai">madurai</option>
+            <option value="combitore">combitore</option>
+            <option value="viruthu nagar">viruthu nagar</option>
+            <option value="kanniya kumari">kanniya kumari</option>
+            <option value="thirunelveli">thirunelveli</option>
+            <option value="sivagangi">sivagangai</option>
+            <option value="ramanathapuram">ramanathapuram</option>
+            <option value="vellore">vellore</option>
+            <option value="ranipet">ranipet</option>
+            <option value="ariyavullur">ariyavullur</option>
+            <option value="kallakurichi">kallakurichi</option>
+        </select><br>
+        <a href="feedback.html">submit</a>
+    </form>
+</div></center>
+<h1>thank you for visitng</h1>
+</body>
+</html>
