@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box{
+        border: 5px solid black;
+        width: 200px;
+        height: 150px;
+    }
+    form{
+        text-align: center;
+    }
+    button{
+        background-color: forestgreen;
+        margin-top: 10px;
+    }
+</style>
+<body>
+    <center><h1>FEEDBACK FROM</h1></center>
+   <center><div class="box">
+        <from>
+            <label>email:</label>
+            <input type="email" required>
+            <label>feedback:</label>
+            <input type="textarea" required>
+            <button id="register">submit</button>
+        </from>
+    </div></center>
+    <script>
+        var button=document.querySelector('#register');
+        button.addEventListener('click',()=>{
+            var fname= alert('your complaint has register successfully');
+        })
+    </script>
+</body>
+</html>

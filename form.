@@ -1,0 +1,30 @@
+body{
+    background-image: url(istockphoto-1321151053-1024x1024.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+.box{
+    border: 5px solid black;
+    width: 500px;
+    height: 500px;
+}
+form{
+    text-align: center;
+}
+input{
+    margin-top: 20px;
+}
+select{
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+a{
+    color: black;
+}
